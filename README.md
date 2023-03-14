@@ -9,6 +9,7 @@ It is a sample app that uses the Springboot framework, Thymeleaf and ORM
 * Thymeleaf templates
 * Hibernate
 * MySQL Database
+* Spring Actuator
 * Bootstrap for styling
 
 ## Features
@@ -30,3 +31,5 @@ It is a sample app that uses the Springboot framework, Thymeleaf and ORM
 ![Register](./img/01.png)
 ![All Events](./img/1.png)
 ![Event](./img/2.png)
+If using IntelliJ IDEA - Ultimate, add the the Spring Actuator Dependancy to see health of the application
+![Health](./img/4.png)
